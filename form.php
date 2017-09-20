@@ -7,6 +7,7 @@
 	DOB:<input type="date" name="fdate">
 	Email:<input type="text" name="femail">
 	Address:<input type="testarea" name="fadd">
+	Phone number:<input type="text" name="number">
 <input type="submit" name="button" value="submit">
 </form>
 
